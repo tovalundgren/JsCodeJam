@@ -3,4 +3,4 @@ Wrap up warm and step into the enchanting world of Tova Lundgrens Winter Wonderl
 
 ❄️ Lets play [Frosty Number Blizzard](https://tovalundgren.github.io/FrostyNumberBlizzard/)! ❄️
 
-![Screenshot of the Frosty Number Blizzard game page](frostynumberblizzardpage.jpg)
+![Screenshot of the Frosty Number Blizzard game page](FrostyNumberBlizzardPage.jpg)
