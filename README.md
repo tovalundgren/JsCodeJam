@@ -1,2 +1,2 @@
-❄️ Welcome to the Frosty Number Blizzard! ❄️
-Wrap up warm and step into the enchanting world of my Winter Wonderland! In this frosty adventure, you're not just guessing numbers; you're unraveling the secrets hidden beneath the snowy surface. Bundle up and dive into the frosty mystery of numbers! Each guess is a snowflake, gently settling on the icy landscape. Will you uncover the chilly code or let it stay frosty? ❄️🔢 Brace yourself for a flurry of fun in this winter wonderland adventure! ❄️🎲
+# ❄️ Welcome to the Frosty Number Blizzard! ❄️
+Wrap up warm and step into the enchanting world of my Winter Wonderland! In this frosty adventure, you're not just guessing numbers; you're unraveling the secrets hidden beneath the snowy surface. Each guess is a snowflake, gently settling on the icy landscape. Will you uncover the chilly code or let it stay frosty? ❄️🔢 Brace yourself for a flurry of fun in this winter wonderland adventure! ❄️🎲
