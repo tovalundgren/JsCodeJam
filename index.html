@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number guessing game</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+    
+        <h1>NUMBER GUESSING GAME</h1>
+        <p>Guess a number between 0 to 100. You have five chanses. Good luck!</p>
+
+        <div class="results">
+            <p class="guesses"></p>
+            <p class="lastResult"></p>
+            <p class="lowOrHi"></p>
+        </div>
+
+        <div class="input">
+            <input type="number" id="guessField" class="guessField">
+            <input type="submit" value="Submit your guess" id="submitGuess" class="submitGuess">
+        </div>
+
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/svalbardbackground.jpg);
+    background-size: center;
+    background-position: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+    margin: auto;
+    margin-top: 10em;
+    background-color: rgb(230, 201, 176, 0.6);
+    height: 45em;
+    width: 45em;
+    border-radius: 50%;
+    color: white;
+}
+
+h1{
+    font-size: 2.5rem;
+}
+
+p{
+    font-size: 1.5rem;
+    margin: 1em;
+}
+
+.input{
+    flex-direction: row;
+    position: relative;
+}
+
+.guessField{
+    height: 2.5em;
+    width: 7em;
+    border: 0.1em solid white;
+    color: white;
+    background: transparent;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-right: 1em;
+}
+
+.guessField:focus{
+    outline: 2px solid orange;
+}
+
+.submitGuess{
+    padding: 0.6em 0;
+    color: white;
+    outline: none;
+    font-size: 1.5rem;
+    background-color: rgb(230, 201, 176);
+    border-radius: 1em;
+    border-style: none;
+    width: 12em;
+    cursor: pointer;
+}
+
+button{
+    padding: 0.6em 0;
+    color: white;
+    outline: none;
+    font-size: 1.5rem;
+    background-color: rgb(230, 201, 176);
+    border-radius: 1em;
+    border-style: none;
+    width: 12em;
+    cursor: pointer;
+    margin-top: 1em;
+}
+
+.hidden{
+    display: none;
+}
